@@ -69,6 +69,9 @@ Run model inference or spatial analysis scripts provided in the folder.
 
 👨‍💻 Author
 Snehalkumar Darji
+
 Batch: 2025
+
 Ganpat University
+
 Specialized in AI, Deep Learning, and Geospatial Analysis.
